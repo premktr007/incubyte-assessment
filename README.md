@@ -1,0 +1,1 @@
+A simple JavaScript calculator that supports basic arithmetic operations (addition, subtraction, multiplication, division) using custom input formats. The calculator can handle custom delimiters and throws exceptions for negative numbers.
